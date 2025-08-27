@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👨‍💻 José Guilherme
 
-<!--
-**Guilherme497-ads/guilherme497-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Cybersecurity`**
 
-Here are some ideas to get you started:
+Me chamo José Guilherme Azevedo da Silva, tenho 25 anos e sou natural de Brasília.Estou atualmente serviço as fileiras do Exército Brasileiro e tenho graduação em Gestão Pública pela UDF, atualmente estou cursando o curso Análise em Desenvolvimento de Sistemas, com foco na área de Cybersegurança.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Graduação em Gestão Pública  
+💻 Aspirante do curso **Análise e Desenvolvimento de Sistemas**   
+🍀 Buscando aprender cada dia mais e construir soluções úteis  
+
+## 🚀 Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Python, Java
+- Git & GitHub
+- Banco de Dados (MySQL, PostgreSQL)
+
+## 📌 Projetos em destaque
+- [Projeto Calculadora em Python](https://github.com/seuuser/calculadora-python)
+
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-guilherme-3b3879375/)
